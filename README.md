@@ -1,1 +1,5 @@
 # https-bitbucket.org-cristiancebotari-tehnologii-web-create-file-filename-.gitignore-template-true
+Proiectul meu presupune gestionarea de profile a candidatilor integrat cu LinkedIn sau de aplicare la job.
+Pentru realizare voi lua in considerare introducere in proiect a recomandarilor si natura acestora, de pe profilul unui posibil candidat si catalogarea lor in functie de persoanele de la care le-a primit. Acest lucru va ajuta la o mai buna viziune a candidatului, abilitatile dobandite/recomandate si perspectiva ce o ofera in functie de feedback-urile primite.
+Profilul de LinkedIn va oferi si o perspectiva asupra experientei si a studiilor unui candidat deoarece se pot culege usor datele despre locurile de munca, training-urile si activitatile desfasurate pentru dezvoltarea sa. Acest lucru va fi de un real interes pentru a gestiona si cataloga profilele. 
+Un alt avantaj al catalogarii consta in posibilitatea urmaririi intereselor in ceea ce priveste sectorul in care doreste sa activeze un candidat si aptitudinile sale ce il recomanda pt un anumit post.
